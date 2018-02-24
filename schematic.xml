@@ -1099,10 +1099,10 @@
     <edges line="RE5-2"/>
     <edges line="RE6"/>
     <edges line="RE7"/>
-    <station name="Ahrensfelde" x="468.490993" y="605.070055"/>
-    <station name="Ahrensfelde Friedhof" x="470.054242" y="602.021075"/>
-    <station name="Ahrensfelde Nord" x="471.802477" y="598.693231"/>
-    <station name="Albrechtshof" x="385.735311" y="611.842970"/>
+    <station name="Ahrensfelde" x="483.239414" y="603.811043"/>
+    <station name="Ahrensfelde Friedhof" x="484.802663" y="600.762063"/>
+    <station name="Ahrensfelde Nord" x="486.550898" y="597.434219"/>
+    <station name="Albrechtshof" x="388.073475" y="605.727771"/>
     <station name="Alt Rosenthal" x="604.328612" y="611.441415"/>
     <station name="Altdöbern" x="553.086452" y="889.648468"/>
     <station name="Altentreptow" x="407.182114" y="249.478486"/>
@@ -1126,25 +1126,25 @@
     <station name="Beetz-Sommerfeld" x="365.123992" y="531.710598"/>
     <station name="Bergsdorf" x="410.635382" y="490.028232"/>
     <station name="Berkenbrück" x="583.035013" y="671.808479"/>
-    <station name="Berlin Alexanderplatz" x="439.895716" y="616.517809"/>
-    <station name="Berlin Friedrichstraße" x="431.075305" y="616.612811"/>
-    <station name="Berlin Gesundbrunnen" x="434.830166" y="602.658783"/>
-    <station name="Berlin Hauptbahnhof" x="425.487055" y="611.464944"/>
-    <station name="Berlin Ostbahnhof" x="446.390450" y="617.636746"/>
-    <station name="Berlin Ostkreuz" x="453.389078" y="621.709219"/>
-    <station name="Berlin Potsdamer Platz" x="430.582836" y="636.565716"/>
+    <station name="Berlin Alexanderplatz" x="443.418842" y="617.057385"/>
+    <station name="Berlin Friedrichstraße" x="436.069062" y="616.321274"/>
+    <station name="Berlin Gesundbrunnen" x="433.930872" y="596.543584"/>
+    <station name="Berlin Hauptbahnhof" x="423.923561" y="615.373680"/>
+    <station name="Berlin Ostbahnhof" x="451.246637" y="618.715899"/>
+    <station name="Berlin Ostkreuz" x="461.842441" y="620.989784"/>
+    <station name="Berlin Potsdamer Platz" x="427.120813" y="632.321946"/>
     <station name="Berlin Südkreuz" x="427.841014" y="643.666615"/>
-    <station name="Berlin Zoologischer Garten" x="418.546446" y="617.325248"/>
-    <station name="Berlin-Charlottenburg" x="412.081686" y="618.067657"/>
-    <station name="Berlin-Hohenschönhausen" x="458.693761" y="606.786844"/>
-    <station name="Berlin-Jungfernheide" x="414.310071" y="604.706613"/>
-    <station name="Berlin-Lichtenberg" x="463.963154" y="618.187395"/>
+    <station name="Berlin Zoologischer Garten" x="407.133008" y="616.723360"/>
+    <station name="Berlin-Charlottenburg" x="396.524418" y="617.757306"/>
+    <station name="Berlin-Hohenschönhausen" x="472.363029" y="601.750798"/>
+    <station name="Berlin-Jungfernheide" x="410.533036" y="602.548308"/>
+    <station name="Berlin-Lichtenberg" x="478.711575" y="616.928383"/>
     <station name="Berlin-Lichterfelde Ost" x="423.087546" y="654.269758"/>
-    <station name="Berlin-Mahlsdorf" x="477.275369" y="623.465752"/>
+    <station name="Berlin-Mahlsdorf" x="498.858424" y="620.588011"/>
     <station name="Berlin-Schönefeld Flughafen" x="458.495642" y="661.177688"/>
     <station name="Berlin-Schöneweide" x="457.904143" y="641.327809"/>
-    <station name="Berlin-Spandau" x="398.227407" y="616.272124"/>
-    <station name="Berlin-Staaken" x="387.737427" y="615.375394"/>
+    <station name="Berlin-Spandau" x="379.068940" y="616.200421"/>
+    <station name="Berlin-Staaken" x="367.550382" y="615.458866"/>
     <station name="Berlin-Wannsee" x="395.170565" y="651.918703"/>
     <station name="Bernau (b Berlin)" x="473.338320" y="572.441899"/>
     <station name="Bestensee" x="481.873192" y="707.855624"/>
@@ -1153,8 +1153,8 @@
     <station name="Birkengrund" x="412.771670" y="684.709831"/>
     <station name="Blankenfelde (Teltow-Fläming)" x="440.182188" y="678.112561"/>
     <station name="Blankensee" x="411.074059" y="340.233430"/>
-    <station name="Blumberg (b Berlin)" x="477.430095" y="594.250567"/>
-    <station name="Blumberg-Rehhahn" x="473.709815" y="596.897100"/>
+    <station name="Blumberg (b Berlin)" x="492.178516" y="592.991555"/>
+    <station name="Blumberg-Rehhahn" x="488.458236" y="595.638088"/>
     <station name="Blumenthal" x="234.238183" y="445.775731"/>
     <station name="Blönsdorf" x="341.163126" y="796.389091"/>
     <station name="Borkheide" x="333.298734" y="711.102489"/>
@@ -1162,7 +1162,7 @@
     <station name="Brandenburg Altstadt" x="271.571732" y="654.640268"/>
     <station name="Brandenburg Hauptbahnhof" x="278.378163" y="658.282741"/>
     <station name="Breddin" x="213.350145" y="505.963200"/>
-    <station name="Brieselang" x="361.445391" y="601.472963"/>
+    <station name="Brieselang" x="335.006149" y="576.832309"/>
     <station name="Briesen (Mark)" x="605.011462" y="675.177246"/>
     <station name="Britz" x="517.008602" y="510.249812"/>
     <station name="Brück (Mark)" x="315.056647" y="724.729554"/>
@@ -1186,7 +1186,7 @@
     <station name="Cottbus-Willmersdorf Nord" x="624.694044" y="839.254313"/>
     <station name="Dabendorf" x="444.234378" y="709.212203"/>
     <station name="Dahlewitz" x="440.884070" y="681.367684"/>
-    <station name="Dallgow-Döberitz" x="372.040996" y="613.532000"/>
+    <station name="Dallgow-Döberitz" x="355.451127" y="613.795331"/>
     <station name="Dannenwalde (Gransee)" x="395.386573" y="444.276566"/>
     <station name="Demmin" x="371.251568" y="181.965010"/>
     <station name="Dessau Hauptbahnhof" x="215.325807" y="832.009344"/>
@@ -1200,19 +1200,19 @@
     <station name="Eberswalde Hauptbahnhof" x="512.633257" y="522.450454"/>
     <station name="Eisenhüttenstadt" x="676.587082" y="736.733278"/>
     <station name="Elmenhorst" x="375.080138" y="81.811143"/>
-    <station name="Elstal" x="361.122997" y="612.314930"/>
+    <station name="Elstal" x="344.533128" y="612.578261"/>
     <station name="Elsterwerda" x="459.203995" y="948.980469"/>
     <station name="Elsterwerda-Biehla" x="459.778366" y="944.790691"/>
     <station name="Erkner" x="504.209528" y="649.995934"/>
     <station name="Falkenberg (Elster)" x="407.998376" y="910.565165"/>
     <station name="Falkenberg (Mark)" x="543.801928" y="530.745669"/>
     <station name="Falkenhagen Gewerbepark Prignitz" x="211.151244" y="402.259237"/>
-    <station name="Falkensee" x="377.894899" y="608.437677"/>
+    <station name="Falkensee" x="364.405490" y="591.710810"/>
     <station name="Fangschleuse" x="517.819725" y="656.330600"/>
     <station name="Ferch-Lienewitz" x="354.153847" y="688.429951"/>
     <station name="Ferdinandshof" x="528.914717" y="259.823535"/>
     <station name="Finkenheerd" x="659.695852" y="705.265167"/>
-    <station name="Finkenkrug" x="370.855903" y="605.464281"/>
+    <station name="Finkenkrug" x="350.172142" y="584.960379"/>
     <station name="Finsterwalde (Niederlausitz)" x="496.192694" y="894.403771"/>
     <station name="Fohrde" x="258.763714" y="632.094201"/>
     <station name="Forst (Lausitz)" x="672.598457" y="863.098382"/>
@@ -1221,7 +1221,7 @@
     <station name="Frankfurt(Oder)-Rosengarten" x="641.296375" y="677.802020"/>
     <station name="Fretzdorf" x="274.564438" y="449.421260"/>
     <station name="Friedersdorf (bei Königs Wusterhausen)" x="510.410947" y="692.715668"/>
-    <station name="Friesack (Mark)" x="282.377445" y="545.302417"/>
+    <station name="Friesack (Mark)" x="273.204647" y="534.690748"/>
     <station name="Fürstenberg (Havel)" x="387.480311" y="410.788178"/>
     <station name="Fürstenwalde (Spree)" x="562.443295" y="668.640550"/>
     <station name="Fürstenwalde Süd" x="567.775926" y="676.555112"/>
@@ -1335,7 +1335,7 @@
     <station name="Müllrose" x="633.967530" y="707.628427"/>
     <station name="Müncheberg (Mark)" x="570.369160" y="619.496554"/>
     <station name="Nassenheide" x="406.383171" y="527.269156"/>
-    <station name="Nauen" x="339.237898" y="591.901914"/>
+    <station name="Nauen" x="314.956961" y="564.511408"/>
     <station name="Nechlin" x="532.921992" y="329.521443"/>
     <station name="Nennhausen" x="266.055067" y="595.879721"/>
     <station name="Netzeband" x="290.186646" y="471.381193"/>
@@ -1357,7 +1357,7 @@
     <station name="Oranienburg" x="408.416308" y="547.588630"/>
     <station name="Pasewalk" x="549.200788" y="306.065074"/>
     <station name="Passow (Uckermark)" x="570.608576" y="422.846981"/>
-    <station name="Paulinenaue" x="306.563644" y="572.185460"/>
+    <station name="Paulinenaue" x="288.577765" y="550.242688"/>
     <station name="Peitz Ost" x="636.820544" y="830.767955"/>
     <station name="Perleberg" x="142.507239" y="447.475874"/>
     <station name="Petershagen (Uckerm)" x="599.537238" y="393.765020"/>
@@ -1394,7 +1394,7 @@
     <station name="Rückersdorf" x="470.293849" y="916.009259"/>
     <station name="Rüdnitz" x="482.069407" y="559.056076"/>
     <station name="S Birkenwerder" x="415.921195" y="568.216787"/>
-    <station name="S Karow" x="450.393356" y="591.084460"/>
+    <station name="S Karow" x="450.213497" y="592.163613"/>
     <station name="Saarmund" x="387.473460" y="682.247357"/>
     <station name="Sachsenhausen (Nordb)" x="408.889622" y="541.827082"/>
     <station name="Sarnow" x="214.430374" y="432.831605"/>
@@ -1414,8 +1414,8 @@
     <station name="Schönwalde (Spreewald)" x="508.828667" y="785.262922"/>
     <station name="Seddin" x="358.041414" y="692.228100"/>
     <station name="Sedlitz Ost" x="561.990726" y="919.773068"/>
-    <station name="Seefeld (Mark)" x="489.586665" y="590.187337"/>
-    <station name="Seegefeld" x="383.412705" y="610.863006"/>
+    <station name="Seefeld (Mark)" x="504.335086" y="588.928325"/>
+    <station name="Seegefeld" x="379.096094" y="596.166555"/>
     <station name="Seehausen (Uckermark)" x="529.324846" y="399.919954"/>
     <station name="Seelow (Mark)" x="626.388991" y="615.291537"/>
     <station name="Seelow-Gusow" x="617.974588" y="608.718797"/>
@@ -1454,7 +1454,7 @@
     <station name="Wensickendorf" x="434.561040" y="547.205315"/>
     <station name="Werbig" x="628.360465" y="606.887659"/>
     <station name="Werder (Havel)" x="347.277000" y="660.695551"/>
-    <station name="Werneuchen" x="501.532936" y="584.156720"/>
+    <station name="Werneuchen" x="516.281357" y="582.897708"/>
     <station name="Wiesenau" x="662.417359" y="710.952407"/>
     <station name="Wiesenburg (Mark)" x="252.766884" y="752.052760"/>
     <station name="Wilhelmshorst" x="374.012089" y="679.650213"/>
@@ -1466,7 +1466,7 @@
     <station name="Woltersdorf/Nuthe-Urstromtal" x="398.122162" y="746.349888"/>
     <station name="Wriezen" x="577.993565" y="559.660865"/>
     <station name="Wusterhausen (Dosse)" x="257.626581" y="505.292319"/>
-    <station name="Wustermark" x="349.456679" y="610.991647"/>
+    <station name="Wustermark" x="332.866810" y="611.254978"/>
     <station name="Wusterwitz" x="241.945756" y="663.074574"/>
     <station name="Wustrau-Radensleben" x="341.362386" y="514.999687"/>
     <station name="Wutike" x="237.827146" y="468.642916"/>
