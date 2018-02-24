@@ -1121,7 +1121,7 @@
     <station name="Baitz" x="301.088087" y="731.795720"/>
     <station name="Baruth (Mark)" x="458.399343" y="764.716531"/>
     <station name="Basdorf" x="443.546960" y="559.605571"/>
-    <station name="Beelitz-Heilstätten" x="346.865348" y="701.322598"/>
+    <station name="Beelitz-Heilstätten" x="335.419789" y="711.579008"/>
     <station name="Beeskow" x="598.796151" y="727.655582"/>
     <station name="Beetz-Sommerfeld" x="365.123992" y="531.710598"/>
     <station name="Bergsdorf" x="410.635382" y="490.028232"/>
@@ -1145,7 +1145,7 @@
     <station name="Berlin-Schöneweide" x="457.904143" y="641.327809"/>
     <station name="Berlin-Spandau" x="379.068940" y="616.200421"/>
     <station name="Berlin-Staaken" x="367.550382" y="615.458866"/>
-    <station name="Berlin-Wannsee" x="395.170565" y="651.918703"/>
+    <station name="Berlin-Wannsee" x="394.256835" y="643.898181"/>
     <station name="Bernau (b Berlin)" x="473.338320" y="572.441899"/>
     <station name="Bestensee" x="481.873192" y="707.855624"/>
     <station name="Beutersitz" x="429.622933" y="908.727325"/>
@@ -1157,7 +1157,7 @@
     <station name="Blumberg-Rehhahn" x="488.458236" y="595.638088"/>
     <station name="Blumenthal" x="234.238183" y="445.775731"/>
     <station name="Blönsdorf" x="341.163126" y="796.389091"/>
-    <station name="Borkheide" x="333.298734" y="711.102489"/>
+    <station name="Borkheide" x="325.420622" y="718.386027"/>
     <station name="Brand Tropical Islands" x="498.342113" y="773.436469"/>
     <station name="Brandenburg Altstadt" x="271.571732" y="654.640268"/>
     <station name="Brandenburg Hauptbahnhof" x="278.378163" y="658.282741"/>
@@ -1175,8 +1175,8 @@
     <station name="Bölzke" x="221.972373" y="435.983193"/>
     <station name="Calau (Niederlausitz)" x="547.360821" y="863.433987"/>
     <station name="Cammin" x="418.004194" y="330.505513"/>
-    <station name="Caputh-Geltow" x="358.041414" y="673.913587"/>
-    <station name="Caputh-Schwielowsee" x="357.265690" y="676.814595"/>
+    <station name="Caputh-Geltow" x="354.430230" y="679.120023"/>
+    <station name="Caputh-Schwielowsee" x="349.118921" y="686.277288"/>
     <station name="Casekow" x="590.934042" y="402.325342"/>
     <station name="Chorin" x="526.324718" y="500.614482"/>
     <station name="Coschen" x="688.074884" y="776.346326"/>
@@ -1209,7 +1209,7 @@
     <station name="Falkenhagen Gewerbepark Prignitz" x="211.151244" y="402.259237"/>
     <station name="Falkensee" x="364.405490" y="591.710810"/>
     <station name="Fangschleuse" x="517.819725" y="656.330600"/>
-    <station name="Ferch-Lienewitz" x="354.153847" y="688.429951"/>
+    <station name="Ferch-Lienewitz" x="345.880303" y="695.242308"/>
     <station name="Ferdinandshof" x="528.914717" y="259.823535"/>
     <station name="Finkenheerd" x="659.695852" y="705.265167"/>
     <station name="Finkenkrug" x="350.172142" y="584.960379"/>
@@ -1229,7 +1229,7 @@
     <station name="Glöwen" x="186.700698" y="500.467761"/>
     <station name="Gnevkow" x="394.198625" y="216.829417"/>
     <station name="Gollmitz (Niederlausitz)" x="530.145294" y="873.395782"/>
-    <station name="Golm" x="355.628218" y="655.328531"/>
+    <station name="Golm" x="356.966011" y="643.585684"/>
     <station name="Golzow" x="518.360220" y="497.172594"/>
     <station name="Golzow (Oderbruch)" x="648.794982" y="607.637488"/>
     <station name="Golßen (Niederlausitz)" x="470.353608" y="790.588312"/>
@@ -1238,7 +1238,7 @@
     <station name="Gransee" x="392.994502" y="469.341214"/>
     <station name="Greifswald" x="431.457952" y="119.896388"/>
     <station name="Greifswald Süd" x="436.469711" y="125.245169"/>
-    <station name="Griebnitzsee" x="385.287119" y="660.250822"/>
+    <station name="Griebnitzsee" x="386.505426" y="658.829464"/>
     <station name="Grimmen" x="367.447930" y="114.376668"/>
     <station name="Gross Pankow" x="179.706426" y="431.010074"/>
     <station name="Groß Kiesow" x="452.545440" y="145.669146"/>
@@ -1323,11 +1323,11 @@
     <station name="Lübstorf" x="58.636881" y="237.400383"/>
     <station name="Magdeburg Hauptbahnhof" x="99.511624" y="742.173809"/>
     <station name="Magdeburg-Neustadt" x="102.491959" y="736.531678"/>
-    <station name="Marquardt" x="355.618512" y="640.131314"/>
+    <station name="Marquardt" x="359.753466" y="630.576204"/>
     <station name="Medewitz (Mark)" x="245.287880" y="763.735616"/>
     <station name="Melchow" x="493.072287" y="541.098499"/>
     <station name="Meyenburg" x="217.728155" y="371.233600"/>
-    <station name="Michendorf" x="366.891829" y="684.406910"/>
+    <station name="Michendorf" x="363.672168" y="700.946709"/>
     <station name="Miltzow" x="398.513260" y="84.764731"/>
     <station name="Mixdorf" x="626.358160" y="721.503283"/>
     <station name="Moidentin" x="72.095778" y="212.617164"/>
@@ -1364,12 +1364,12 @@
     <station name="Pillgram" x="627.104385" y="678.093250"/>
     <station name="Pinnow (Uckermark)" x="568.176349" y="449.317061"/>
     <station name="Plessa" x="478.543629" y="945.209879"/>
-    <station name="Potsdam Charlottenhof" x="368.079967" y="660.667795"/>
+    <station name="Potsdam Charlottenhof" x="364.363876" y="661.113726"/>
     <station name="Potsdam Hauptbahnhof" x="373.750596" y="661.079453"/>
-    <station name="Potsdam Medienstadt Babelsberg" x="384.221354" y="663.863126"/>
-    <station name="Potsdam Park Sanssouci" x="363.586817" y="660.120145"/>
-    <station name="Potsdam Pirschheide" x="363.176116" y="666.886578"/>
-    <station name="Potsdam-Rehbrücke" x="379.658549" y="671.439833"/>
+    <station name="Potsdam Medienstadt Babelsberg" x="385.410503" y="666.390068"/>
+    <station name="Potsdam Park Sanssouci" x="353.181763" y="658.336421"/>
+    <station name="Potsdam Pirschheide" x="357.016121" y="671.657753"/>
+    <station name="Potsdam-Rehbrücke" x="378.596175" y="676.559322"/>
     <station name="Premnitz Nord" x="234.160915" y="615.965503"/>
     <station name="Premnitz Zentrum" x="235.967386" y="618.075420"/>
     <station name="Prenzlau" x="525.883568" y="367.917877"/>
@@ -1412,7 +1412,7 @@
     <station name="Schönow (Uckermark)" x="580.711836" y="411.326201"/>
     <station name="Schönwalde" x="443.295744" y="570.594299"/>
     <station name="Schönwalde (Spreewald)" x="508.828667" y="785.262922"/>
-    <station name="Seddin" x="358.041414" y="692.228100"/>
+    <station name="Seddin" x="346.780418" y="705.240281"/>
     <station name="Sedlitz Ost" x="561.990726" y="919.773068"/>
     <station name="Seefeld (Mark)" x="504.335086" y="588.928325"/>
     <station name="Seegefeld" x="379.096094" y="596.166555"/>
@@ -1453,11 +1453,11 @@
     <station name="Wendisch Rietz" x="553.102629" y="718.534956"/>
     <station name="Wensickendorf" x="434.561040" y="547.205315"/>
     <station name="Werbig" x="628.360465" y="606.887659"/>
-    <station name="Werder (Havel)" x="347.277000" y="660.695551"/>
+    <station name="Werder (Havel)" x="335.385510" y="658.317253"/>
     <station name="Werneuchen" x="516.281357" y="582.897708"/>
     <station name="Wiesenau" x="662.417359" y="710.952407"/>
     <station name="Wiesenburg (Mark)" x="252.766884" y="752.052760"/>
-    <station name="Wilhelmshorst" x="374.012089" y="679.650213"/>
+    <station name="Wilhelmshorst" x="372.369720" y="688.217664"/>
     <station name="Wilmersdorf (bei Angermünde)" x="530.771431" y="434.487072"/>
     <station name="Wismar" x="69.843017" y="183.613913"/>
     <station name="Wittenberge" x="125.578327" y="469.004404"/>
