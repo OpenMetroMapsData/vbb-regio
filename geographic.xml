@@ -495,42 +495,6 @@
       <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin Friedrichstraße"/>
     </line>
-    <line circular="false" color="#4D66FF" name="RB21">
-      <stop station="Berlin Friedrichstraße"/>
-      <stop station="Berlin Hauptbahnhof"/>
-      <stop station="Berlin Zoologischer Garten"/>
-      <stop station="Berlin-Charlottenburg"/>
-      <stop station="Berlin-Wannsee"/>
-      <stop station="Griebnitzsee"/>
-      <stop station="Potsdam Hauptbahnhof"/>
-      <stop station="Potsdam Charlottenhof"/>
-      <stop station="Potsdam Park Sanssouci"/>
-      <stop station="Golm"/>
-      <stop station="Marquardt"/>
-      <stop station="Priort"/>
-      <stop station="Wustermark"/>
-    </line>
-    <line circular="false" color="#4D66FF" name="RB21">
-      <stop station="Griebnitzsee"/>
-      <stop station="Potsdam Hauptbahnhof"/>
-      <stop station="Potsdam Charlottenhof"/>
-      <stop station="Potsdam Park Sanssouci"/>
-      <stop station="Golm"/>
-      <stop station="Marquardt"/>
-      <stop station="Priort"/>
-      <stop station="Wustermark"/>
-    </line>
-    <line circular="false" color="#33CCFF" name="RB22">
-      <stop station="Griebnitzsee"/>
-      <stop station="Potsdam Hauptbahnhof"/>
-      <stop station="Potsdam Charlottenhof"/>
-      <stop station="Potsdam Park Sanssouci"/>
-      <stop station="Golm"/>
-      <stop station="Saarmund"/>
-      <stop station="Ludwigsfelde-Struveshof"/>
-      <stop station="Berlin-Schönefeld Flughafen"/>
-      <stop station="Königs Wusterhausen"/>
-    </line>
     <line circular="false" color="#4D66FF" name="RB22">
       <stop station="Berlin Friedrichstraße"/>
       <stop station="Berlin Hauptbahnhof"/>
@@ -546,22 +510,6 @@
       <stop station="Ludwigsfelde-Struveshof"/>
       <stop station="Berlin-Schönefeld Flughafen"/>
       <stop station="Königs Wusterhausen"/>
-    </line>
-    <line circular="false" color="#4D66FF" name="RB22">
-      <stop station="Königs Wusterhausen"/>
-      <stop station="Berlin-Schönefeld Flughafen"/>
-      <stop station="Ludwigsfelde-Struveshof"/>
-      <stop station="Saarmund"/>
-      <stop station="Golm"/>
-      <stop station="Potsdam Park Sanssouci"/>
-      <stop station="Potsdam Charlottenhof"/>
-      <stop station="Potsdam Hauptbahnhof"/>
-      <stop station="Griebnitzsee"/>
-      <stop station="Berlin-Wannsee"/>
-      <stop station="Berlin-Charlottenburg"/>
-      <stop station="Berlin Zoologischer Garten"/>
-      <stop station="Berlin Hauptbahnhof"/>
-      <stop station="Berlin Friedrichstraße"/>
     </line>
     <line circular="false" color="#9900FF" name="RB23">
       <stop station="Potsdam Hauptbahnhof"/>
@@ -629,7 +577,7 @@
       <stop station="Berlin-Mahlsdorf"/>
       <stop station="Berlin-Lichtenberg"/>
     </line>
-    <line circular="false" color="#FF0000" name="RB27">
+    <line circular="false" color="#FF0000" name="RB27-1">
       <stop station="S Karow"/>
       <stop station="Schönerlinde"/>
       <stop station="Schönwalde"/>
@@ -642,7 +590,7 @@
       <stop station="Klandorf"/>
       <stop station="Groß Schönebeck (Schorfheide)"/>
     </line>
-    <line circular="false" color="#FF0000" name="RB27">
+    <line circular="false" color="#FF0000" name="RB27-2">
       <stop station="S Karow"/>
       <stop station="Schönerlinde"/>
       <stop station="Schönwalde"/>
@@ -650,28 +598,7 @@
       <stop station="Zühlsdorf"/>
       <stop station="Wensickendorf"/>
     </line>
-    <line circular="false" color="#FF0000" name="RB27">
-      <stop station="Groß Schönebeck (Schorfheide)"/>
-      <stop station="Klandorf"/>
-      <stop station="Ruhlsdorf-Zerpenschleuse"/>
-      <stop station="Lottschesee"/>
-      <stop station="Klosterfelde"/>
-      <stop station="Wandlitzsee"/>
-      <stop station="Wandlitz"/>
-      <stop station="Basdorf"/>
-      <stop station="Schönwalde"/>
-      <stop station="Schönerlinde"/>
-      <stop station="S Karow"/>
-    </line>
-    <line circular="false" color="#FF0000" name="RB27">
-      <stop station="Wensickendorf"/>
-      <stop station="Zühlsdorf"/>
-      <stop station="Basdorf"/>
-      <stop station="Schönwalde"/>
-      <stop station="Schönerlinde"/>
-      <stop station="S Karow"/>
-    </line>
-    <line circular="false" color="#FF0000" name="RB27">
+    <line circular="false" color="#FF0000" name="RB27-3">
       <stop station="Schmachtenhagen"/>
       <stop station="Wensickendorf"/>
       <stop station="Zühlsdorf"/>
@@ -679,15 +606,6 @@
       <stop station="Schönwalde"/>
       <stop station="Schönerlinde"/>
       <stop station="S Karow"/>
-    </line>
-    <line circular="false" color="#FF0000" name="RB27">
-      <stop station="S Karow"/>
-      <stop station="Schönerlinde"/>
-      <stop station="Schönwalde"/>
-      <stop station="Basdorf"/>
-      <stop station="Zühlsdorf"/>
-      <stop station="Wensickendorf"/>
-      <stop station="Schmachtenhagen"/>
     </line>
     <line circular="false" color="#4D66FF" name="RB35">
       <stop station="Fürstenwalde (Spree)"/>
@@ -749,22 +667,6 @@
       <stop station="Elsterwerda-Biehla"/>
       <stop station="Bad Liebenwerda"/>
       <stop station="Falkenberg (Elster)"/>
-    </line>
-    <line circular="false" color="#90244B" name="RB49">
-      <stop station="Falkenberg (Elster)"/>
-      <stop station="Bad Liebenwerda"/>
-      <stop station="Elsterwerda-Biehla"/>
-      <stop station="Plessa"/>
-      <stop station="Lauchhammer"/>
-      <stop station="Ruhland"/>
-      <stop station="Schwarzheide Ost"/>
-      <stop station="Senftenberg"/>
-      <stop station="Sedlitz Ost"/>
-      <stop station="Bahnsdorf"/>
-      <stop station="Neupetershain"/>
-      <stop station="Drebkau"/>
-      <stop station="Leuthen (b Cottbus)"/>
-      <stop station="Cottbus"/>
     </line>
     <line circular="false" color="#E64DFF" name="RB51">
       <stop station="Rathenow"/>
@@ -829,7 +731,7 @@
       <stop station="Passow (Uckermark)"/>
       <stop station="Angermünde"/>
     </line>
-    <line circular="false" color="#00FF73" name="RB73">
+    <line circular="false" color="#00FF73" name="RB73-1">
       <stop station="Pritzwalk"/>
       <stop station="Sarnow"/>
       <stop station="Bölzke"/>
@@ -840,51 +742,21 @@
       <stop station="Wusterhausen (Dosse)"/>
       <stop station="Neustadt (Dosse)"/>
     </line>
-    <line circular="false" color="#00FF73" name="RB73">
+    <line circular="false" color="#00FF73" name="RB73-2">
       <stop station="Kyritz"/>
       <stop station="Wusterhausen (Dosse)"/>
       <stop station="Neustadt (Dosse)"/>
     </line>
-    <line circular="false" color="#00FF73" name="RB73">
-      <stop station="Neustadt (Dosse)"/>
-      <stop station="Wusterhausen (Dosse)"/>
-      <stop station="Kyritz"/>
-    </line>
-    <line circular="false" color="#00FF73" name="RB73">
-      <stop station="Neustadt (Dosse)"/>
-      <stop station="Wusterhausen (Dosse)"/>
-      <stop station="Kyritz"/>
-      <stop station="Wutike"/>
-      <stop station="Rosenwinkel"/>
-      <stop station="Blumenthal"/>
-      <stop station="Bölzke"/>
-      <stop station="Sarnow"/>
-      <stop station="Pritzwalk"/>
-    </line>
-    <line circular="false" color="#0080FF" name="RB74">
+    <line circular="false" color="#0080FF" name="RB74-1">
       <stop station="Meyenburg"/>
       <stop station="Brügge(Prign)"/>
       <stop station="Falkenhagen Gewerbepark Prignitz"/>
       <stop station="Pritzwalk"/>
       <stop station="Pritzwalk-West"/>
     </line>
-    <line circular="false" color="#0080FF" name="RB74">
+    <line circular="false" color="#0080FF" name="RB74-2">
       <stop station="Pritzwalk"/>
       <stop station="Pritzwalk-Hainholz"/>
-      <stop station="Falkenhagen Gewerbepark Prignitz"/>
-      <stop station="Brügge(Prign)"/>
-      <stop station="Meyenburg"/>
-    </line>
-    <line circular="false" color="#0080FF" name="RB74">
-      <stop station="Meyenburg"/>
-      <stop station="Brügge(Prign)"/>
-      <stop station="Falkenhagen Gewerbepark Prignitz"/>
-      <stop station="Pritzwalk-Hainholz"/>
-      <stop station="Pritzwalk"/>
-    </line>
-    <line circular="false" color="#0080FF" name="RB74">
-      <stop station="Pritzwalk-West"/>
-      <stop station="Pritzwalk"/>
       <stop station="Falkenhagen Gewerbepark Prignitz"/>
       <stop station="Brügge(Prign)"/>
       <stop station="Meyenburg"/>
@@ -962,83 +834,7 @@
       <stop station="Dorf Mecklenburg"/>
       <stop station="Wismar"/>
     </line>
-    <line circular="false" color="#FFE600" name="RE2">
-      <stop station="Wismar"/>
-      <stop station="Dorf Mecklenburg"/>
-      <stop station="Moidentin"/>
-      <stop station="Bad Kleinen"/>
-      <stop station="Lübstorf"/>
-      <stop station="Schwerin Hauptbahnhof"/>
-      <stop station="Schwerin Mitte"/>
-      <stop station="Schwerin Süd"/>
-      <stop station="Holthusen"/>
-      <stop station="Sülstorf"/>
-      <stop station="Rastow"/>
-      <stop station="Lüblow"/>
-      <stop station="Ludwigslust"/>
-      <stop station="Grabow (Meckl)"/>
-      <stop station="Karstädt"/>
-      <stop station="Wittenberge"/>
-      <stop station="Bad Wilsnack"/>
-      <stop station="Glöwen"/>
-      <stop station="Breddin"/>
-      <stop station="Neustadt (Dosse)"/>
-      <stop station="Friesack (Mark)"/>
-      <stop station="Paulinenaue"/>
-      <stop station="Nauen"/>
-      <stop station="Falkensee"/>
-      <stop station="Berlin-Spandau"/>
-      <stop station="Berlin Zoologischer Garten"/>
-      <stop station="Berlin Hauptbahnhof"/>
-      <stop station="Berlin Friedrichstraße"/>
-      <stop station="Berlin Alexanderplatz"/>
-      <stop station="Ostkreuz"/>
-      <stop station="Königs Wusterhausen"/>
-      <stop station="Brand Tropical Islands"/>
-      <stop station="Lübben (Spreewald)"/>
-      <stop station="Lübbenau"/>
-      <stop station="Raddusch / Raduš"/>
-      <stop station="Vetschau / Wětošow"/>
-      <stop station="Kunersdorf"/>
-      <stop station="Kolkwitz"/>
-      <stop station="Cottbus"/>
-    </line>
-    <line circular="false" color="#FFE600" name="RE2">
-      <stop station="Berlin Ostbahnhof"/>
-      <stop station="Berlin Alexanderplatz"/>
-      <stop station="Berlin Friedrichstraße"/>
-      <stop station="Berlin Hauptbahnhof"/>
-      <stop station="Berlin Zoologischer Garten"/>
-      <stop station="Berlin-Spandau"/>
-      <stop station="Albrechtshof"/>
-      <stop station="Seegefeld"/>
-      <stop station="Falkensee"/>
-      <stop station="Finkenkrug"/>
-      <stop station="Brieselang"/>
-      <stop station="Nauen"/>
-      <stop station="Paulinenaue"/>
-      <stop station="Friesack (Mark)"/>
-      <stop station="Neustadt (Dosse)"/>
-      <stop station="Breddin"/>
-      <stop station="Glöwen"/>
-      <stop station="Bad Wilsnack"/>
-      <stop station="Wittenberge"/>
-      <stop station="Karstädt"/>
-      <stop station="Grabow (Meckl)"/>
-      <stop station="Ludwigslust"/>
-      <stop station="Lüblow"/>
-      <stop station="Rastow"/>
-      <stop station="Sülstorf"/>
-      <stop station="Holthusen"/>
-      <stop station="Schwerin Süd"/>
-      <stop station="Schwerin Mitte"/>
-      <stop station="Schwerin Hauptbahnhof"/>
-      <stop station="Lübstorf"/>
-      <stop station="Bad Kleinen"/>
-      <stop station="Dorf Mecklenburg"/>
-      <stop station="Wismar"/>
-    </line>
-    <line circular="false" color="#FF5900" name="RE3">
+    <line circular="false" color="#FF5900" name="RE3-1">
       <stop station="Stralsund Hbf"/>
       <stop station="Miltzow"/>
       <stop station="Greifswald"/>
@@ -1079,47 +875,7 @@
       <stop station="Herzberg (Elster)"/>
       <stop station="Falkenberg (Elster)"/>
     </line>
-    <line circular="false" color="#FF5900" name="RE3">
-      <stop station="Falkenberg (Elster)"/>
-      <stop station="Herzberg (Elster)"/>
-      <stop station="Holzdorf (Elster)"/>
-      <stop station="Linda (Elster)"/>
-      <stop station="Zellendorf"/>
-      <stop station="Oehna"/>
-      <stop station="Jüterbog"/>
-      <stop station="Luckenwalde"/>
-      <stop station="Trebbin"/>
-      <stop station="Thyrow"/>
-      <stop station="Ludwigsfelde"/>
-      <stop station="Berlin-Lichterfelde Ost"/>
-      <stop station="Berlin Südkreuz"/>
-      <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
-      <stop station="Berlin Gesundbrunnen"/>
-      <stop station="Bernau (b Berlin)"/>
-      <stop station="Eberswalde Hauptbahnhof"/>
-      <stop station="Britz"/>
-      <stop station="Chorin"/>
-      <stop station="Angermünde"/>
-      <stop station="Wilmersdorf (bei Angermünde)"/>
-      <stop station="Warnitz (Uckermark)"/>
-      <stop station="Seehausen (Uckermark)"/>
-      <stop station="Prenzlau"/>
-      <stop station="Nechlin"/>
-      <stop station="Pasewalk"/>
-      <stop station="Jatznick"/>
-      <stop station="Ferdinandshof"/>
-      <stop station="Ducherow"/>
-      <stop station="Anklam"/>
-      <stop station="Klein Bünzow"/>
-      <stop station="Züssow"/>
-      <stop station="Groß Kiesow"/>
-      <stop station="Greifswald Süd"/>
-      <stop station="Greifswald"/>
-      <stop station="Miltzow"/>
-      <stop station="Stralsund Hbf"/>
-    </line>
-    <line circular="false" color="#FF5900" name="RE3">
+    <line circular="false" color="#FF5900" name="RE3-2">
       <stop station="Lutherstadt Wittenberg Hauptbahnhof"/>
       <stop station="Zahna"/>
       <stop station="Blönsdorf"/>
@@ -1143,30 +899,6 @@
       <stop station="Schwedt (Oder) Mitte"/>
       <stop station="Schwedt (Oder)"/>
     </line>
-    <line circular="false" color="#FF5900" name="RE3">
-      <stop station="Schwedt (Oder)"/>
-      <stop station="Schwedt (Oder) Mitte"/>
-      <stop station="Pinnow (Uckermark)"/>
-      <stop station="Angermünde"/>
-      <stop station="Chorin"/>
-      <stop station="Britz"/>
-      <stop station="Eberswalde Hauptbahnhof"/>
-      <stop station="Bernau (b Berlin)"/>
-      <stop station="Berlin Gesundbrunnen"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
-      <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Südkreuz"/>
-      <stop station="Berlin-Lichterfelde Ost"/>
-      <stop station="Ludwigsfelde"/>
-      <stop station="Thyrow"/>
-      <stop station="Trebbin"/>
-      <stop station="Luckenwalde"/>
-      <stop station="Jüterbog"/>
-      <stop station="Niedergörsdorf"/>
-      <stop station="Blönsdorf"/>
-      <stop station="Zahna"/>
-      <stop station="Lutherstadt Wittenberg Hauptbahnhof"/>
-    </line>
     <line circular="false" color="#80004D" name="RE4">
       <stop station="Jüterbog"/>
       <stop station="Luckenwalde"/>
@@ -1189,48 +921,7 @@
       <stop station="Nennhausen"/>
       <stop station="Rathenow"/>
     </line>
-    <line circular="false" color="#80004D" name="RE4">
-      <stop station="Rathenow"/>
-      <stop station="Nennhausen"/>
-      <stop station="Buschow"/>
-      <stop station="Wustermark"/>
-      <stop station="Elstal"/>
-      <stop station="Dallgow-Döberitz"/>
-      <stop station="Berlin-Staaken"/>
-      <stop station="Berlin-Spandau"/>
-      <stop station="Berlin-Jungfernheide"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
-      <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Südkreuz"/>
-      <stop station="Berlin-Lichterfelde Ost"/>
-      <stop station="Teltow"/>
-      <stop station="Großbeeren"/>
-      <stop station="Birkengrund"/>
-      <stop station="Ludwigsfelde"/>
-      <stop station="Luckenwalde"/>
-      <stop station="Jüterbog"/>
-    </line>
-    <line circular="false" color="#80004D" name="RE4">
-      <stop station="Rathenow"/>
-      <stop station="Nennhausen"/>
-      <stop station="Buschow"/>
-      <stop station="Wustermark"/>
-      <stop station="Elstal"/>
-      <stop station="Dallgow-Döberitz"/>
-      <stop station="Berlin-Staaken"/>
-      <stop station="Berlin-Spandau"/>
-    </line>
-    <line circular="false" color="#80004D" name="RE4">
-      <stop station="Berlin-Spandau"/>
-      <stop station="Berlin-Staaken"/>
-      <stop station="Dallgow-Döberitz"/>
-      <stop station="Elstal"/>
-      <stop station="Wustermark"/>
-      <stop station="Buschow"/>
-      <stop station="Nennhausen"/>
-      <stop station="Rathenow"/>
-    </line>
-    <line circular="false" color="#0080FF" name="RE5">
+    <line circular="false" color="#0080FF" name="RE5-1">
       <stop station="Rostock Hauptbahnhof"/>
       <stop station="Güstrow"/>
       <stop station="Langhagen"/>
@@ -1265,7 +956,7 @@
       <stop station="Hohenleipisch"/>
       <stop station="Elsterwerda"/>
     </line>
-    <line circular="false" color="#0080FF" name="RE5">
+    <line circular="false" color="#0080FF" name="RE5-2">
       <stop station="Elsterwerda"/>
       <stop station="Hohenleipisch"/>
       <stop station="Rückersdorf"/>
@@ -1309,86 +1000,6 @@
       <stop station="Elmenhorst"/>
       <stop station="Zarrendorf"/>
       <stop station="Stralsund Hbf"/>
-    </line>
-    <line circular="false" color="#0080FF" name="RE5">
-      <stop station="Stralsund Hbf"/>
-      <stop station="Zarrendorf"/>
-      <stop station="Elmenhorst"/>
-      <stop station="Wittenhagen"/>
-      <stop station="Grimmen"/>
-      <stop station="Rakow"/>
-      <stop station="Demmin"/>
-      <stop station="Utzedel"/>
-      <stop station="Sternfeld"/>
-      <stop station="Gnevkow"/>
-      <stop station="Altentreptow"/>
-      <stop station="Neubrandenburg"/>
-      <stop station="Burg Stargard"/>
-      <stop station="Cammin"/>
-      <stop station="Blankensee"/>
-      <stop station="Neustrelitz Hbf"/>
-      <stop station="Fürstenberg (Havel)"/>
-      <stop station="Dannenwalde (Gransee)"/>
-      <stop station="Gransee"/>
-      <stop station="Löwenberg (Mark)"/>
-      <stop station="Oranienburg"/>
-      <stop station="Berlin Gesundbrunnen"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
-      <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Südkreuz"/>
-      <stop station="Berlin-Lichterfelde Ost"/>
-      <stop station="Blankenfelde (Teltow-Fläming)"/>
-      <stop station="Dahlewitz"/>
-      <stop station="Rangsdorf"/>
-      <stop station="Dabendorf"/>
-      <stop station="Zossen"/>
-      <stop station="Wünsdorf-Waldstadt"/>
-      <stop station="Neuhof (b Zossen)"/>
-      <stop station="Baruth (Mark)"/>
-      <stop station="Klasdorf-Glashütte"/>
-      <stop station="Golßen (Niederlausitz)"/>
-      <stop station="Drahnsdorf"/>
-      <stop station="Luckau-Uckro"/>
-      <stop station="Walddrehna"/>
-      <stop station="Doberlug-Kirchhain"/>
-      <stop station="Rückersdorf"/>
-      <stop station="Hohenleipisch"/>
-      <stop station="Elsterwerda"/>
-    </line>
-    <line circular="false" color="#0080FF" name="RE5">
-      <stop station="Elsterwerda"/>
-      <stop station="Hohenleipisch"/>
-      <stop station="Rückersdorf"/>
-      <stop station="Doberlug-Kirchhain"/>
-      <stop station="Walddrehna"/>
-      <stop station="Luckau-Uckro"/>
-      <stop station="Drahnsdorf"/>
-      <stop station="Golßen (Niederlausitz)"/>
-      <stop station="Klasdorf Glashütte"/>
-      <stop station="Baruth (Mark)"/>
-      <stop station="Neuhof (b Zossen)"/>
-      <stop station="Wünsdorf-Waldstadt"/>
-      <stop station="Zossen"/>
-      <stop station="Dabendorf"/>
-      <stop station="Rangsdorf"/>
-      <stop station="Dahlewitz"/>
-      <stop station="Blankenfelde (Teltow-Fläming)"/>
-      <stop station="Berlin-Lichterfelde Ost"/>
-      <stop station="Berlin Südkreuz"/>
-      <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
-      <stop station="Berlin Gesundbrunnen"/>
-      <stop station="Oranienburg"/>
-      <stop station="Löwenberg (Mark)"/>
-      <stop station="Gransee"/>
-      <stop station="Dannenwalde (Gransee)"/>
-      <stop station="Fürstenberg (Havel)"/>
-      <stop station="Neustrelitz Hbf"/>
-      <stop station="Kratzeburg"/>
-      <stop station="Waren (Müritz)"/>
-      <stop station="Langhagen"/>
-      <stop station="Güstrow"/>
-      <stop station="Rostock Hauptbahnhof"/>
     </line>
     <line circular="false" color="#E64DFF" name="RE6">
       <stop station="Berlin Gesundbrunnen"/>
