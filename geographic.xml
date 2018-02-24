@@ -32,7 +32,6 @@
     <station lat="52.520284" lon="13.387166" name="Berlin Friedrichstraße"/>
     <station lat="52.548659" lon="13.389437" name="Berlin Gesundbrunnen"/>
     <station lat="52.524939" lon="13.369442" name="Berlin Hauptbahnhof"/>
-    <station lat="52.524815" lon="13.369307" name="Berlin Hauptbahnhof (Tief)"/>
     <station lat="52.510222" lon="13.434661" name="Berlin Ostbahnhof"/>
     <station lat="52.503101" lon="13.469980" name="Berlin Ostkreuz"/>
     <station lat="52.509310" lon="13.375849" name="Berlin Potsdamer Platz"/>
@@ -397,7 +396,7 @@
     <line circular="false" color="#59FF00" name="RB10">
       <stop station="Berlin Südkreuz"/>
       <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
+      <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin-Jungfernheide"/>
       <stop station="Berlin-Spandau"/>
       <stop station="Albrechtshof"/>
@@ -858,7 +857,7 @@
       <stop station="Eberswalde Hauptbahnhof"/>
       <stop station="Bernau (b Berlin)"/>
       <stop station="Berlin Gesundbrunnen"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
+      <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin Potsdamer Platz"/>
       <stop station="Berlin Südkreuz"/>
       <stop station="Berlin-Lichterfelde Ost"/>
@@ -888,7 +887,7 @@
       <stop station="Berlin-Lichterfelde Ost"/>
       <stop station="Berlin Südkreuz"/>
       <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
+      <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin Gesundbrunnen"/>
       <stop station="Bernau (b Berlin)"/>
       <stop station="Eberswalde Hauptbahnhof"/>
@@ -910,7 +909,7 @@
       <stop station="Berlin-Lichterfelde Ost"/>
       <stop station="Berlin Südkreuz"/>
       <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
+      <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin-Jungfernheide"/>
       <stop station="Berlin-Spandau"/>
       <stop station="Berlin-Staaken"/>
@@ -934,7 +933,7 @@
       <stop station="Löwenberg (Mark)"/>
       <stop station="Oranienburg"/>
       <stop station="Berlin Gesundbrunnen"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
+      <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin Potsdamer Platz"/>
       <stop station="Berlin Südkreuz"/>
       <stop station="Berlin-Lichterfelde Ost"/>
@@ -977,7 +976,7 @@
       <stop station="Berlin-Lichterfelde Ost"/>
       <stop station="Berlin Südkreuz"/>
       <stop station="Berlin Potsdamer Platz"/>
-      <stop station="Berlin Hauptbahnhof (Tief)"/>
+      <stop station="Berlin Hauptbahnhof"/>
       <stop station="Berlin Gesundbrunnen"/>
       <stop station="Oranienburg"/>
       <stop station="Löwenberg (Mark)"/>
