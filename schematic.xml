@@ -1128,21 +1128,21 @@
     <station name="Beetz-Sommerfeld" x="365.123992" y="531.710598"/>
     <station name="Bergsdorf" x="410.635382" y="490.028232"/>
     <station name="Berkenbrück" x="583.035013" y="671.808479"/>
-    <station name="Berlin Alexanderplatz" x="439.249644" y="620.486537"/>
-    <station name="Berlin Friedrichstraße" x="434.674849" y="620.858427"/>
-    <station name="Berlin Gesundbrunnen" x="435.107054" y="611.980679"/>
-    <station name="Berlin Hauptbahnhof" x="431.301703" y="619.402400"/>
-    <station name="Berlin Hauptbahnhof (Tief)" x="431.276011" y="619.441188"/>
-    <station name="Berlin Ostbahnhof" x="443.713866" y="624.005170"/>
-    <station name="Berlin Ostkreuz" x="450.435606" y="626.231722"/>
-    <station name="Berlin Potsdamer Platz" x="432.521052" y="624.290349"/>
-    <station name="Berlin Südkreuz" x="430.425302" y="635.083087"/>
-    <station name="Berlin Zoologischer Garten" x="424.268798" y="624.893520"/>
-    <station name="Berlin-Charlottenburg" x="418.542405" y="625.912817"/>
+    <station name="Berlin Alexanderplatz" x="439.895716" y="616.517809"/>
+    <station name="Berlin Friedrichstraße" x="431.075305" y="616.612811"/>
+    <station name="Berlin Gesundbrunnen" x="434.830166" y="602.658783"/>
+    <station name="Berlin Hauptbahnhof" x="425.487055" y="611.464944"/>
+    <station name="Berlin Hauptbahnhof (Tief)" x="426.015139" y="610.119292"/>
+    <station name="Berlin Ostbahnhof" x="446.390450" y="617.636746"/>
+    <station name="Berlin Ostkreuz" x="453.389078" y="621.709219"/>
+    <station name="Berlin Potsdamer Platz" x="430.582836" y="636.565716"/>
+    <station name="Berlin Südkreuz" x="427.841014" y="643.666615"/>
+    <station name="Berlin Zoologischer Garten" x="418.546446" y="617.325248"/>
+    <station name="Berlin-Charlottenburg" x="412.081686" y="618.067657"/>
     <station name="Berlin-Hohenschönhausen" x="458.693761" y="606.786844"/>
-    <station name="Berlin-Jungfernheide" x="418.001910" y="617.720349"/>
-    <station name="Berlin-Lichtenberg" x="455.564218" y="624.002043"/>
-    <station name="Berlin-Lichterfelde Ost" x="423.549026" y="649.193478"/>
+    <station name="Berlin-Jungfernheide" x="414.310071" y="604.706613"/>
+    <station name="Berlin-Lichtenberg" x="463.963154" y="618.187395"/>
+    <station name="Berlin-Lichterfelde Ost" x="423.087546" y="654.269758"/>
     <station name="Berlin-Mahlsdorf" x="477.275369" y="623.465752"/>
     <station name="Berlin-Schönefeld Flughafen" x="458.495642" y="661.177688"/>
     <station name="Berlin-Schöneweide" x="457.904143" y="641.327809"/>
@@ -1358,7 +1358,7 @@
     <station name="Oegeln" x="602.857666" y="729.130621"/>
     <station name="Oehna" x="370.278677" y="803.711344"/>
     <station name="Oranienburg" x="408.416308" y="547.588630"/>
-    <station name="Ostkreuz" x="450.188196" y="626.254546"/>
+    <station name="Ostkreuz" x="453.049372" y="619.978418"/>
     <station name="Pasewalk" x="549.200788" y="306.065074"/>
     <station name="Passow (Uckermark)" x="570.608576" y="422.846981"/>
     <station name="Paulinenaue" x="306.563644" y="572.185460"/>
