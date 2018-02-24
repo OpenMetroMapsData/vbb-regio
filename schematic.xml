@@ -257,7 +257,6 @@
     <station lat="52.172748" lon="14.270873" name="Oegeln"/>
     <station lat="51.931765" lon="13.048800" name="Oehna"/>
     <station lat="52.753920" lon="13.249192" name="Oranienburg"/>
-    <station lat="52.503028" lon="13.468680" name="Ostkreuz"/>
     <station lat="53.515258" lon="13.988936" name="Pasewalk"/>
     <station lat="53.148819" lon="14.101422" name="Passow (Uckermark)"/>
     <station lat="52.675627" lon="12.714013" name="Paulinenaue"/>
@@ -466,7 +465,7 @@
       <stop station="Berlin Friedrichstraße"/>
       <stop station="Berlin Alexanderplatz"/>
       <stop station="Berlin Ostbahnhof"/>
-      <stop station="Ostkreuz"/>
+      <stop station="Berlin Ostkreuz"/>
       <stop station="Berlin-Schönefeld Flughafen"/>
     </line>
     <line circular="false" color="#269900" name="RB20">
@@ -780,7 +779,7 @@
       <stop station="Berlin Friedrichstraße"/>
       <stop station="Berlin Alexanderplatz"/>
       <stop station="Berlin Ostbahnhof"/>
-      <stop station="Ostkreuz"/>
+      <stop station="Berlin Ostkreuz"/>
       <stop station="Erkner"/>
       <stop station="Fangschleuse"/>
       <stop station="Hangelsberg"/>
@@ -803,7 +802,7 @@
       <stop station="Lübben (Spreewald)"/>
       <stop station="Brand Tropical Islands"/>
       <stop station="Königs Wusterhausen"/>
-      <stop station="Ostkreuz"/>
+      <stop station="Berlin Ostkreuz"/>
       <stop station="Berlin Alexanderplatz"/>
       <stop station="Berlin Friedrichstraße"/>
       <stop station="Berlin Hauptbahnhof"/>
@@ -1033,7 +1032,7 @@
       <stop station="Dahlewitz"/>
       <stop station="Blankenfelde (Teltow-Fläming)"/>
       <stop station="Berlin-Schönefeld Flughafen"/>
-      <stop station="Ostkreuz"/>
+      <stop station="Berlin Ostkreuz"/>
       <stop station="Berlin Ostbahnhof"/>
       <stop station="Berlin Alexanderplatz"/>
       <stop station="Berlin Friedrichstraße"/>
@@ -1356,7 +1355,6 @@
     <station name="Oegeln" x="602.857666" y="729.130621"/>
     <station name="Oehna" x="370.278677" y="803.711344"/>
     <station name="Oranienburg" x="408.416308" y="547.588630"/>
-    <station name="Ostkreuz" x="453.049372" y="619.978418"/>
     <station name="Pasewalk" x="549.200788" y="306.065074"/>
     <station name="Passow (Uckermark)" x="570.608576" y="422.846981"/>
     <station name="Paulinenaue" x="306.563644" y="572.185460"/>
